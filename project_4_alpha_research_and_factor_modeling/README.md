@@ -2,18 +2,18 @@
 
 Contains lessons
 
-### Factors
+* Factors
 
-### Factor Models and Types of Factors
+* Factor Models and Types of Factors
 
-### Risk Factor Models
+* Risk Factor Models
 
-### Time Series and Cross Sectional Risk Models
+* Time Series and Cross Sectional Risk Models
 
-### Risk Factor Models with PCA
+* Risk Factor Models with PCA
 
-### Alpha Factors
+* Alpha Factors
 
-### Alpha Factor Research Methods
+* Alpha Factor Research Methods
 
-### Advanced Portfolio Optimization
+* Advanced Portfolio Optimization
